@@ -4,7 +4,8 @@ The Parts Unlimited Frontend is an SPA written with [React](https://reactjs.org/
 
 ## Getting started
 
-To start the app use: `yarn start` from the frontend directory.
+First, install the dependencies of the project by running `npm i`.
+Then, start the app by running `yarn dev`.
 
 Make sure your server is up and running to serve requests.
 
